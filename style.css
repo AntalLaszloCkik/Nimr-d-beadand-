@@ -52,7 +52,11 @@ footer {
     height: auto;
 }
 
-#Enduro {
-    width: 25%;
-    height: 25%;
+.magassag {
+    height: 200px;
+}
+
+#robogo {
+    height: 357px;
+    width: 634px;
 }
