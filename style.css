@@ -85,3 +85,37 @@ footer {
     color: black;
     border-color: black;
 }
+
+h2 {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+#gomb2 {
+    background-image: auto;
+    color: white;
+    
+}
+
+div a {
+    color: white;
+}
+
+div {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+#sport {
+    background-image: url(hatter2.jpg);
+}
+
+#tortenet {
+    background-color: auto;
+}
