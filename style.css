@@ -88,7 +88,8 @@ footer {
 
 li, h2 {
     color: white;
-h2 {
+}
+h2, h1 {
     color: white;
 }
 
@@ -107,12 +108,13 @@ div a {
 }
 
 div {
-    color: white;
+    color: white !important;
 }
 
 a {
     text-decoration: none;
 }
+
 
 #sport {
     background-image: url(hatter2.jpg);
