@@ -1,7 +1,7 @@
 body {
     background-color: #f0f4f8;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: url('MotorHatterkep2.webp') no-repeat center center fixed;
+    background: url('háttér.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -39,7 +39,7 @@ footer {
 }
 
 #Cim {
-    color: #ffa726;
+    color:  #0056b3;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 3rem;
     text-align: center;
@@ -93,4 +93,38 @@ footer {
   transition: all 0.3s ease;    
  
   }
+
+li, h2 {
+    color: white;
+}
+h2, h1 {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+#gomb2 {
+    background-image: auto;
+    color: white;
+    
+}
+
+div a {
+    color: white;
+}
+
+div {
+    color: white !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#sport {
+    background-image: url(hatter2.jpg);
+}
 
