@@ -78,3 +78,22 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+main{
+    width: 1250px;
+    margin: auto;
+    opacity: 95%;
+    background-color: gray;
+}
+
+section{
+    opacity: 100% !important;
+    background-color: white;
+}
+
+body{
+    background-image: url(sportmotor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
