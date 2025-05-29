@@ -138,3 +138,20 @@ a {
     background-image: url(hatter2.jpg);
 }
 
+nav {
+    background-color: #20232a;
+    padding: 10px 20px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
