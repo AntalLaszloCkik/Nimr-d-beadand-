@@ -1,6 +1,5 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #e9f0f3;
     margin: 0;
     padding: 0;
 }
@@ -92,7 +91,7 @@ section{
 }
 
 body{
-    background-image: url(sportmotor.jpg);
+    background-color: #4D6DAF;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -131,10 +130,9 @@ body{
 
 .tura {
     font-family: Arial, sans-serif;
-    background-color: #e9f0f3;
     margin: 0;
     padding: 0;
-    background-image: url(turamotor.jpg);
+    background-color: #4D6DAF;
 }
 
 .navbar {
