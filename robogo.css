@@ -97,3 +97,16 @@ body{
     background-size: cover;
     background-position: center center;
 }
+
+.thumbnail {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.thumbnail:hover {
+    transform: scale(1.1);
+}

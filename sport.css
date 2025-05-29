@@ -128,3 +128,50 @@ body{
 .thumbnail:hover {
     transform: scale(1.1);
 }
+
+.tura {
+    font-family: Arial, sans-serif;
+    background-color: #e9f0f3;
+    margin: 0;
+    padding: 0;
+    background-image: url(turamotor.jpg);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo {
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white; /* Szöveg színe fehér */
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Lágyabb háttérkiemelés */
+}
